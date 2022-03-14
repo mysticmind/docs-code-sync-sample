@@ -1,0 +1,6 @@
+{
+    "Convention": "InPlaceOverwrite",
+    "LinkFormat": "GitHub",
+    "UrlPrefix": "https://github.com/mysticmind/docs-code-sync-sample/blob/master",
+    "TreatMissingAsWarning": false
+}
